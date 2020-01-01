@@ -2,7 +2,7 @@
 
 This is a small project written in Python 3.7.
 It is a simple calculator. To use it, simply enter 
-your calculation by pressing ENTER after each element (number or operator),
+your calculation by pressing ENTER after each element (number or operator).
 The calculation will look vertical.
 Write a '=' in order to display the result.
 
