@@ -22,10 +22,9 @@ equalsign
 
 result
 
-NOTE: The simplicity of this program does not allow for
-operator precedence. If your calculation includes multiplications
-or divisions, enter those first.
-
+NOTE: Because of it's simplicity, this calculator does not include operator precedence.
+If your calculation includes multiplications or divisions, enter those first, so the calculation
+will be correct.
 
 Example:
-3*4/2+1=7.0
+3*4/2+1-2=5.0
