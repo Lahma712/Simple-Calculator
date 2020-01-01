@@ -9,21 +9,21 @@ the loop restarts and you can enter a new calculation.
 
 <b>Structure of the input:</b>
 
-NUMBER
+<em>NUMBER</em>
 
-OPERATOR
+<em>OPERATOR</em>
 
-NUMBER
+<em>NUMBER</em>
 
-OPERATOR
+<em>OPERATOR</em>
 
 ...
 
-EQUALSIGN
+<em>EQUALSIGN</em>
 
-RESULT
+<em>RESULT </em>
 
-NOTE: Because of it's simplicity, this calculator does not include operator precedence.
+<b>NOTE:</b> Because of it's simplicity, this calculator does not include operator precedence.
 If your calculation includes multiplications or divisions, enter those first, so the calculation
 will be correct.
 
