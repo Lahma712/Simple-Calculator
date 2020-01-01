@@ -9,19 +9,19 @@ the loop restarts and you can enter a new calculation.
 
 <b>Structure of the input:</b>
 
-number1
+NUMBER
 
-operator1
+OPERATOR
 
-number2
+NUMBER
 
-operator2
+OPERATOR
 
 ...
 
-equalsign
+EQUALSIGN
 
-result
+RESULT
 
 NOTE: Because of it's simplicity, this calculator does not include operator precedence.
 If your calculation includes multiplications or divisions, enter those first, so the calculation
