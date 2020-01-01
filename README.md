@@ -21,6 +21,8 @@ the loop restarts and you can enter a new calculation.
 
 <em>EQUALSIGN</em>
 
+<b>OUTPUT</b>
+
 <em>RESULT </em>
 
 <b>NOTE:</b> Because of it's simplicity, this calculator does not include operator precedence.
