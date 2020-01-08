@@ -27,8 +27,14 @@ the loop restarts and you can enter a new calculation.
 
 <b>NOTE:</b> Because of it's simplicity, this calculator does not include operator precedence.
 If your calculation includes multiplications or divisions, calculate those expressions seperately and then 
-use the results of those expressions inside your original calculation. I am working on a version that includes
-full operator precedence.
+use the results of those expressions inside your original calculation, in order for it to be calculated correctly.
+
+When I wrote this program, I did not yet know the evaluate function eval() which allows for a much faster, more efficient
+aswell as more elegant calculator, all in one line of code:
+
+> print(eval(input("Enter Calculation: "))))
+
+
 
 
 
