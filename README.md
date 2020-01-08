@@ -34,7 +34,7 @@ use the results of those expressions inside your original calculation, in order 
 <b>Optimization: </b>
 
 When I wrote this program, I did not yet know the evaluate function eval() which comes with Python 3.7 and allows for 
-a much faster, more efficient aswell as more elegant calculator, all in one line of code:
+a much more complete, efficient aswell as elegant calculator, all in one line of code:
 
 > print(eval(input("Enter Calculation: ")))
 
