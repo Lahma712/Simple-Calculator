@@ -26,8 +26,10 @@ the loop restarts and you can enter a new calculation.
 <em>RESULT </em>
 
 <b>NOTE:</b> Because of it's simplicity, this calculator does not include operator precedence.
-If your calculation includes multiplications or divisions, enter those first, so the calculation
-will be correct.
+If your calculation includes multiplications or divisions, calculate those expressions seperately and then 
+use the results of those expressions inside your original calculation. I am working on a version that includes
+full operator precedence.
 
-Example:
-3*4/2+1-2=5.0
+
+
+
