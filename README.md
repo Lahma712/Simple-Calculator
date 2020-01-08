@@ -15,8 +15,6 @@ the loop restarts and you can enter a new calculation.
 
 <em>number</em>
 
-<em>operator</em>
-
 ...
 
 <em>equalsign</em>
