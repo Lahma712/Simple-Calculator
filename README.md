@@ -26,9 +26,12 @@ the loop restarts and you can enter a new calculation.
 <em>RESULT </em>
 
 
+
+
 <b>NOTE:</b> Because of it's simplicity, this calculator does not include operator precedence.
 If your calculation includes multiplications or divisions, calculate those expressions seperately and then 
 use the results of those expressions inside your original calculation, in order for it to be calculated correctly.
+
 
 
 
