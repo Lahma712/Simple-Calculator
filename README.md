@@ -9,21 +9,21 @@ the loop restarts and you can enter a new calculation.
 
 <b>Structure of the input:</b>
 
-<em>NUMBER</em>
+<em>number</em>
 
-<em>OPERATOR</em>
+<em>operator</em>
 
-<em>NUMBER</em>
+<em>number</em>
 
-<em>OPERATOR</em>
+<em>operator</em>
 
 ...
 
-<em>EQUALSIGN</em>
+<em>equalsign</em>
 
 <b>OUTPUT</b>
 
-<em>RESULT </em>
+<em>result </em>
 
 ===================
 
