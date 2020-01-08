@@ -32,7 +32,7 @@ use the results of those expressions inside your original calculation, in order 
 When I wrote this program, I did not yet know the evaluate function eval() which allows for a much faster, more efficient
 aswell as more elegant calculator, all in one line of code:
 
-> print(eval(input("Enter Calculation: "))))
+> print(eval(input("Enter Calculation: ")))
 
 
 
