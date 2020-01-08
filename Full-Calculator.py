@@ -1,1 +1,1 @@
-Print(eval(input("Enter calculation: ")))
+print(eval(input("Enter calculation: ")))
