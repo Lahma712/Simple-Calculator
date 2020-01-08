@@ -31,6 +31,8 @@ use the results of those expressions inside your original calculation, in order 
 
 ===================
 
+<b> <em> UPDATE: </em> </b>
+
 <b>Optimization: </b>
 
 At the time when I wrote this program, I did not yet know the evaluate function eval() which comes with Python 3.7 and allows for 
