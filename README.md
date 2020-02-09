@@ -29,17 +29,6 @@ the loop restarts and you can enter a new calculation.
 If your calculation includes multiplications or divisions, calculate those expressions seperately and then 
 use the results of those expressions inside your original calculation, in order for it to be calculated correctly.
 
-===================
-
-<b> <em> UPDATE: </em> </b>
-
-<b>Optimization: </b>
-
-At the time when I wrote this program, I did not yet know the evaluate function eval() which comes with Python 3.7 and allows for 
-a much more complete, efficient aswell as elegant calculator. All in one line of code:
-
-> print(eval(input("Enter Calculation: ")))
-
 
 
 
